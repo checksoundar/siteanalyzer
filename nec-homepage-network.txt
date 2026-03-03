@@ -1,0 +1,12 @@
+[POST] https://www.google.com/ccm/collect?frm=0&en=page_view&dl=https%3A%2F%2Fwisdom.nec.com%2F&scrsrc=www.googletagmanager.com&rnd=1583760214.1772537701&dt=wisdom%20%7C%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%80%9D%E8%80%83%E3%81%AB%E3%80%81%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%82%92%E3%80%82&auid=276508595.1772536753&navt=n&npa=0&gtm=45be62r1v9168368813za200zd9168368813xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~115616985~115938465~115938468~116024733~117484252&apve=1&apvf=f&apvc=1&tids=AW-11334075662&tid=AW-11334075662&tft=1772537700950&tfd=1643 => [200] 
+[POST] https://www.google.com/ccm/collect?frm=0&en=page_view&dl=https%3A%2F%2Fwisdom.nec.com%2F&scrsrc=www.googletagmanager.com&rnd=1583760214.1772537701&dt=wisdom%20%7C%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%80%9D%E8%80%83%E3%81%AB%E3%80%81%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%82%92%E3%80%82&auid=276508595.1772536753&navt=n&npa=0&gtm=45be62r1v9168368813za200zd9168368813xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~115616985~115938465~115938468~116024733~117484252&apve=1&apvf=f&apvc=1&tids=AW-11334075662&tid=AW-11334075662&tft=1772537700950&tfd=1643 => [200] 
+[GET] https://wisdom.nec.com/nf_global/wisdom/v2/local/ja/include/header.html => [200] OK
+[GET] https://wisdom.nec.com/nf_global/wisdom/v2/local/ja/include/gnavi.html => [200] OK
+[GET] https://wisdom.nec.com/nf_global/wisdom/v2/local/ja/include/page-top.html => [200] OK
+[GET] https://wisdom.nec.com/nf_global/wisdom/v2/local/ja/include/footer.html => [200] OK
+[GET] https://wisdom.nec.com/ja/common/csv/articles.csv => [200] OK
+[POST] https://collect-ap-northeast-1.tealiumiq.com/nec/main/2/i.gif => [200] 
+[POST] https://o.clarity.ms/collect => [204] No Content
+[POST] https://o.clarity.ms/collect => [204] No Content
+[POST] https://o.clarity.ms/collect => [204] No Content
+[POST] https://o.clarity.ms/collect => [204] No Content
