@@ -1,0 +1,39 @@
+{
+  "templates": [
+    {
+      "name": "NEC Wisdom Homepage",
+      "urls": [
+        "https://wisdom.nec.com/"
+      ],
+      "description": "NEC Wisdom portal homepage with hero carousel, article cards, special features carousel, series/events/glossary cards, about section, and member registration CTA",
+      "blocks": [
+        {
+          "name": "carousel",
+          "instances": [
+            ".wdm-mv-swiper .swiper-wrapper",
+            ".wdm-special-swiper .swiper-wrapper"
+          ],
+          "section": "Hero carousel and Special features carousel"
+        },
+        {
+          "name": "cards",
+          "instances": [
+            ".wdm-top-newarticle-list",
+            ".wdm-top-series-list",
+            ".wdm-top-event-list",
+            ".wdm-top-glossary-list"
+          ],
+          "section": "New articles, Series, Events, Glossary sections"
+        },
+        {
+          "name": "columns",
+          "instances": [
+            ".wdm-top-about",
+            ".wdm-top-member"
+          ],
+          "section": "About Wisdom (dark) and Member Registration sections"
+        }
+      ]
+    }
+  ]
+}
